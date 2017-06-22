@@ -997,3 +997,1142 @@ LogInit: Object subsystem initialized
 [2017.06.22-13.01.34:963][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ball" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ball.uasset" SILENT=true
 [2017.06.22-13.01.35:026][224]LogSavePackage: Save=31.53ms
 [2017.06.22-13.01.35:026][224]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/ballFE0334BD4F55C0B18D31D49BA8EB8E3A.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ball.uasset'
+[2017.06.22-13.01.35:029][224]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ball.uasset
+[2017.06.22-13.01.35:070][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ballActor" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ballActor.uasset" SILENT=true
+[2017.06.22-13.01.35:148][224]LogSavePackage: Save=54.60ms
+[2017.06.22-13.01.35:148][224]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/ballActor0E1C26AF4E9C7B6B83B385B8971257A5.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ballActor.uasset'
+[2017.06.22-13.01.35:151][224]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ballActor.uasset
+[2017.06.22-13.19.44:825][549]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-13.19.44:871][549]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.19.44:871][549]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.06.22-13.19.44:871][549]LogPlayLevel: [PlayLevel] Compiling CatchACoinGamemode before play...
+[2017.06.22-13.19.44:999][549]LogPlayLevel: PlayLevel: Blueprint regeneration took 127 ms (1 blueprints)
+[2017.06.22-13.19.44:999][549]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 7:19:44 AM)
+[2017.06.22-13.19.44:999][549]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-13.19.45:010][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011213s)
+[2017.06.22-13.19.45:011][549]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-13.19.45:014][549]LogPlayLevel: PIE: World Init took: (0.003901s)
+[2017.06.22-13.19.45:014][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.015360s)
+[2017.06.22-13.19.45:058][549]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-13.19.45:061][549]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-10.19.45
+[2017.06.22-13.19.45:061][549]LogWorld: Bringing up level for play took: 0.001493
+[2017.06.22-13.19.45:062][549]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.19.45:062][549]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.19.45:062][549]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.19.45:063][549]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.19.45:063][549]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.42
+[2017.06.22-13.19.45:063][549]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.19.52:045][744]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.19.52:144][744]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.20.54:153][233]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.036
+[2017.06.22-13.20.54:157][233]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CatchACoinGamemode] ([1] browsable assets)...
+[2017.06.22-13.20.54:157][233]OBJ SavePackage: Finished generating thumbnails for package [/Game/CatchACoinGamemode]
+[2017.06.22-13.20.54:209][233]LogSavePackage: Save=12.26ms
+[2017.06.22-13.20.54:209][233]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/CatchACoinGamemode_Auto12AE9F2B24BB9962CE42AEC827117FC07.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Autosaves/Game/CatchACoinGamemode_Auto1.uasset'
+[2017.06.22-13.20.54:211][233]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Autosaves/Game/CatchACoinGamemode_Auto1.uasset
+[2017.06.22-13.20.54:211][233]LogFileHelpers: Auto-saving content packages took 0.057
+[2017.06.22-13.21.21:379][370]BlueprintLog: New page: Compile ball
+[2017.06.22-13.21.22:879][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ball" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ball.uasset" SILENT=true
+[2017.06.22-13.21.22:937][523]LogSavePackage: Save=31.40ms
+[2017.06.22-13.21.22:937][523]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/ballF87EF34141E965FA33A8159A5D8AF60A.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ball.uasset'
+[2017.06.22-13.21.22:940][523]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ball.uasset
+[2017.06.22-13.21.25:168][699]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-13.21.25:191][699]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.21.25:191][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-13.21.25:191][699]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 7:21:25 AM)
+[2017.06.22-13.21.25:191][699]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-13.21.25:208][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017284s)
+[2017.06.22-13.21.25:209][699]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-13.21.25:209][699]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2017.06.22-13.21.25:209][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.018133s)
+[2017.06.22-13.21.25:299][699]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-13.21.25:301][699]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-10.21.25
+[2017.06.22-13.21.25:301][699]LogWorld: Bringing up level for play took: 0.001436
+[2017.06.22-13.21.25:302][699]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.21.25:302][699]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.21.25:302][699]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.21.25:303][699]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.21.25:303][699]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.179
+[2017.06.22-13.21.25:303][699]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.21.39:659][102]LogScript:Warning: UGameplayStatics::SpawnEmitterAttached: NULL AttachComponent specified!
+[2017.06.22-13.21.44:613][246]LogScript:Warning: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue3
+	ball_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.ball_125
+	Function /Game/ball.ball_C:ExecuteUbergraph_ball:02B4
+[2017.06.22-13.21.44:614][246]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue3 from function: 'ExecuteUbergraph_ball' from node: DestroyComponent in graph: EventGraph in object: ball with description: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue3
+[2017.06.22-13.21.48:458][356]LogScript:Warning: UGameplayStatics::SpawnEmitterAttached: NULL AttachComponent specified!
+[2017.06.22-13.21.53:411][500]LogScript:Warning: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue3
+	ballActor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.ballActor_20
+	Function /Game/ballActor.ballActor_C:ExecuteUbergraph_ballActor:0027
+[2017.06.22-13.21.53:411][500]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue3 from function: 'ExecuteUbergraph_ballActor' from node: DestroyComponent in graph: EventGraph in object: ballActor with description: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue3
+[2017.06.22-13.22.00:059][691]LogScript:Warning: UGameplayStatics::SpawnEmitterAttached: NULL AttachComponent specified!
+[2017.06.22-13.22.01:381][730]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.22.01:488][730]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.23.13:854][676]LogTexture:Display: Building textures: T_Fire_SubUV (AutoDXT)
+[2017.06.22-13.23.14:186][676]LogTexture:Display: Building textures: T_Fire_Tiled_D (AutoDXT)
+[2017.06.22-13.23.14:573][676]LogTexture:Display: Building textures: T_Water_N (BC5)
+[2017.06.22-13.23.15:084][676]LogTexture:Display: Building textures: ThumbnailTexture (DXT1)
+[2017.06.22-13.23.16:925][862]BlueprintLog: New page: Compile ball
+[2017.06.22-13.23.19:355][111]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-13.23.19:371][111]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.23.19:371][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-13.23.19:372][111]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 7:23:19 AM)
+[2017.06.22-13.23.19:372][111]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-13.23.19:381][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009186s)
+[2017.06.22-13.23.19:381][111]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-13.23.19:382][111]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2017.06.22-13.23.19:382][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.010191s)
+[2017.06.22-13.23.19:434][111]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-13.23.19:436][111]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-10.23.19
+[2017.06.22-13.23.19:436][111]LogWorld: Bringing up level for play took: 0.001588
+[2017.06.22-13.23.19:437][111]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.23.19:437][111]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.23.19:437][111]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.23.19:438][111]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.23.19:442][111]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.039
+[2017.06.22-13.23.19:442][111]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.24.24:640][258]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.24.24:814][258]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.24.47:156][848]BlueprintLog: New page: Compile ball
+[2017.06.22-13.24.47:208][848]LogBlueprint:Warning: [Compiler ball] Warning Could not find a variable named "InvincibleP2" in 'ballActor_C'.
+Make sure 'ballActor_C' has been compiled for  K2Node_VariableGet_80
+[2017.06.22-13.24.47:211][848]LogBlueprint:Error: [Compiler ball] Error The property associated with  InvincibleP2  could not be found
+[2017.06.22-13.24.47:916][848]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "InvincibleP2" in 'ballActor_C'.
+Make sure 'ballActor_C' has been compiled for  K2Node_VariableGet_80
+[2017.06.22-13.24.47:916][848]BlueprintEditorCompileResults:Error: Error The property associated with  InvincibleP2  could not be found
+[2017.06.22-13.24.47:916][848]LogBlueprint:Warning: [Compiler ball] Warning [2801.86] Compile of ball failed. 1 Fatal Issue(s) 1 Warning(s) [in 758 ms] (/Game/ball.ball)
+[2017.06.22-13.25.01:287][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ball" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ball.uasset" SILENT=true
+[2017.06.22-13.25.01:348][277]LogSavePackage: Save=30.31ms
+[2017.06.22-13.25.01:348][277]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/ball3EFEBA324465061DEBC22890E5AAE407.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ball.uasset'
+[2017.06.22-13.25.01:350][277]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ball.uasset
+[2017.06.22-13.25.02:791][329]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-13.25.02:813][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.25.02:813][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-13.25.02:813][329]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 7:25:02 AM)
+[2017.06.22-13.25.02:814][329]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-13.25.02:828][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014060s)
+[2017.06.22-13.25.02:828][329]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-13.25.02:828][329]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2017.06.22-13.25.02:828][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.014931s)
+[2017.06.22-13.25.02:926][329]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-13.25.02:928][329]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-10.25.02
+[2017.06.22-13.25.02:929][329]LogWorld: Bringing up level for play took: 0.001333
+[2017.06.22-13.25.02:929][329]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.25.02:929][329]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.25.02:929][329]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.25.02:930][329]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.25.02:930][329]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.551
+[2017.06.22-13.25.02:930][329]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.25.26:305][989]LogScript:Warning: UGameplayStatics::SpawnEmitterAttached: NULL AttachComponent specified!
+[2017.06.22-13.25.31:240][131]LogScript:Warning: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue3
+	ballActor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.ballActor_20
+	Function /Game/ballActor.ballActor_C:ExecuteUbergraph_ballActor:0027
+[2017.06.22-13.25.31:241][131]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue3 from function: 'ExecuteUbergraph_ballActor' from node: DestroyComponent in graph: EventGraph in object: ballActor with description: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue3
+[2017.06.22-13.25.33:135][185]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.25.33:233][185]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.27.33:111][670]BlueprintLog: New page: Compile ballActor
+[2017.06.22-13.27.47:227][166]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-13.27.47:266][166]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.27.47:267][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-13.27.47:267][166]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 7:27:47 AM)
+[2017.06.22-13.27.47:267][166]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-13.27.47:293][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025854s)
+[2017.06.22-13.27.47:294][166]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-13.27.47:295][166]LogPlayLevel: PIE: World Init took: (0.001350s)
+[2017.06.22-13.27.47:295][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.027526s)
+[2017.06.22-13.27.47:357][166]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-13.27.47:359][166]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-10.27.47
+[2017.06.22-13.27.47:360][166]LogWorld: Bringing up level for play took: 0.001472
+[2017.06.22-13.27.47:360][166]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.27.47:360][166]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.27.47:360][166]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.27.47:361][166]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.27.47:361][166]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.119
+[2017.06.22-13.27.47:361][166]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.28.48:090][891]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.28.48:208][891]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.29.12:916][254]BlueprintLog: New page: Compile ballActor
+[2017.06.22-13.29.14:606][419]BlueprintLog: New page: Compile ball
+[2017.06.22-13.29.15:809][459]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-13.29.15:847][459]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.29.15:847][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-13.29.15:847][459]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 7:29:15 AM)
+[2017.06.22-13.29.15:847][459]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-13.29.15:863][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015699s)
+[2017.06.22-13.29.15:863][459]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-13.29.15:864][459]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2017.06.22-13.29.15:864][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.016694s)
+[2017.06.22-13.29.15:939][459]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-13.29.15:942][459]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-10.29.15
+[2017.06.22-13.29.15:942][459]LogWorld: Bringing up level for play took: 0.001255
+[2017.06.22-13.29.15:942][459]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.29.15:942][459]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.29.15:942][459]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.29.15:943][459]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.29.15:943][459]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.466
+[2017.06.22-13.29.15:943][459]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.29.23:213][663]LogBlueprintUserMessages: [ball_125] false
+[2017.06.22-13.29.46:712][342]LogBlueprintUserMessages: [ballActor_20] false
+[2017.06.22-13.30.12:310][ 77]LogBlueprintUserMessages: [ballActor_20] false
+[2017.06.22-13.30.18:656][257]LogBlueprintUserMessages: [ball_125] false
+[2017.06.22-13.30.31:526][618]LogBlueprintUserMessages: [ball_125] false
+[2017.06.22-13.30.35:765][736]LogBlueprintUserMessages: [ball_125] false
+[2017.06.22-13.31.16:456][856]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.31.16:554][856]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.34.21:509][829]BlueprintLog: New page: Compile ball
+[2017.06.22-13.34.23:183][921]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-13.34.23:207][921]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.34.23:207][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-13.34.23:207][921]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 7:34:23 AM)
+[2017.06.22-13.34.23:207][921]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-13.34.23:224][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016841s)
+[2017.06.22-13.34.23:224][921]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-13.34.23:225][921]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2017.06.22-13.34.23:225][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.017673s)
+[2017.06.22-13.34.23:318][921]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-13.34.23:321][921]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-10.34.23
+[2017.06.22-13.34.23:321][921]LogWorld: Bringing up level for play took: 0.001460
+[2017.06.22-13.34.23:321][921]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.34.23:321][921]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.34.23:321][921]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.34.23:322][921]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.34.23:322][921]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.145
+[2017.06.22-13.34.23:323][921]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.34.51:769][726]LogBlueprintUserMessages: [ball_125] false
+[2017.06.22-13.34.57:723][892]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.34.57:824][892]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.35.07:250][790]LogEditorTransaction: Undo Break Pin Link
+[2017.06.22-13.35.07:780][819]LogEditorTransaction: Undo Create Pin Link
+[2017.06.22-13.35.08:280][867]LogEditorTransaction: Undo Move Node
+[2017.06.22-13.35.08:787][917]LogEditorTransaction: Undo Create Pin Link
+[2017.06.22-13.35.09:252][962]LogEditorTransaction: Undo Move Node
+[2017.06.22-13.35.09:790][ 16]LogEditorTransaction: Undo Move Node
+[2017.06.22-13.35.10:335][ 71]LogEditorTransaction: Undo Move Node
+[2017.06.22-13.35.10:862][124]LogEditorTransaction: Undo Break Pin Link
+[2017.06.22-13.36.42:272][925]LogSavePackage: Save=169.87ms
+[2017.06.22-13.36.42:272][925]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Minimal_Default_Auto238E0506647E85D987D64909BB1F79A4D.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2017.06.22-13.36.42:273][925]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap
+[2017.06.22-13.36.42:275][925]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.256
+[2017.06.22-13.36.42:275][925]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.256
+[2017.06.22-13.36.42:277][925]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ball] ([1] browsable assets)...
+[2017.06.22-13.36.42:320][925]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ball.ball]
+[2017.06.22-13.36.42:320][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/ball]
+[2017.06.22-13.36.42:320][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ball" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Autosaves/Game/ball_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.06.22-13.36.42:378][925]LogSavePackage: Save=32.33ms
+[2017.06.22-13.36.42:378][925]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/ball_Auto2AB0F4A414DB7CB456278F08506B37E8E.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Autosaves/Game/ball_Auto2.uasset'
+[2017.06.22-13.36.42:380][925]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Autosaves/Game/ball_Auto2.uasset
+[2017.06.22-13.36.42:380][925]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ballActor] ([1] browsable assets)...
+[2017.06.22-13.36.42:423][925]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ballActor.ballActor]
+[2017.06.22-13.36.42:424][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/ballActor]
+[2017.06.22-13.36.42:424][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ballActor" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Autosaves/Game/ballActor_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.06.22-13.36.42:485][925]LogSavePackage: Save=37.74ms
+[2017.06.22-13.36.42:485][925]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/ballActor_Auto2E75618D84F2421CCDBAFBF9A6D14A3CB.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Autosaves/Game/ballActor_Auto2.uasset'
+[2017.06.22-13.36.42:487][925]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Autosaves/Game/ballActor_Auto2.uasset
+[2017.06.22-13.36.42:487][925]LogFileHelpers: Auto-saving content packages took 0.211
+[2017.06.22-13.38.38:472][831]BlueprintLog: New page: Compile ball
+[2017.06.22-13.38.41:998][ 70]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-13.38.42:021][ 70]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.38.42:021][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-13.38.42:021][ 70]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 7:38:42 AM)
+[2017.06.22-13.38.42:022][ 70]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-13.38.42:039][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017212s)
+[2017.06.22-13.38.42:039][ 70]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-13.38.42:039][ 70]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2017.06.22-13.38.42:040][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.018108s)
+[2017.06.22-13.38.42:133][ 70]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-13.38.42:136][ 70]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-10.38.42
+[2017.06.22-13.38.42:136][ 70]LogWorld: Bringing up level for play took: 0.001464
+[2017.06.22-13.38.42:136][ 70]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.38.42:136][ 70]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.38.42:136][ 70]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.38.42:137][ 70]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.38.42:137][ 70]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.673
+[2017.06.22-13.38.42:138][ 70]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.38.58:804][547]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.38.58:919][547]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.39.26:617][477]BlueprintLog: New page: Compile ballActor
+[2017.06.22-13.39.33:798][231]BlueprintLog: New page: Compile ball
+[2017.06.22-13.39.35:464][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ballActor" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ballActor.uasset" SILENT=true
+[2017.06.22-13.39.35:528][393]LogSavePackage: Save=36.06ms
+[2017.06.22-13.39.35:528][393]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/ballActor2EE99B8342F397484544868963487FA9.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ballActor.uasset'
+[2017.06.22-13.39.35:531][393]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ballActor.uasset
+[2017.06.22-13.39.36:563][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ball" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ball.uasset" SILENT=true
+[2017.06.22-13.39.36:621][507]LogSavePackage: Save=31.83ms
+[2017.06.22-13.39.36:621][507]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/ballB4C35A17443DBF20E6F89C9D05B84F4C.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ball.uasset'
+[2017.06.22-13.39.36:623][507]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ball.uasset
+[2017.06.22-13.39.37:856][563]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-13.39.37:879][563]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.39.37:879][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-13.39.37:879][563]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 7:39:37 AM)
+[2017.06.22-13.39.37:880][563]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-13.39.37:897][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016790s)
+[2017.06.22-13.39.37:897][563]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-13.39.37:897][563]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2017.06.22-13.39.37:898][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.017734s)
+[2017.06.22-13.39.37:989][563]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-13.39.37:991][563]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-10.39.37
+[2017.06.22-13.39.37:991][563]LogWorld: Bringing up level for play took: 0.001424
+[2017.06.22-13.39.37:992][563]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.39.37:992][563]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.39.37:992][563]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.39.37:993][563]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.39.37:993][563]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.529
+[2017.06.22-13.39.37:993][563]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.40.54:096][658]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.40.54:214][658]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.41.27:445][332]BlueprintLog: New page: Compile ball
+[2017.06.22-13.41.28:092][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ball" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ball.uasset" SILENT=true
+[2017.06.22-13.41.28:149][380]LogSavePackage: Save=30.96ms
+[2017.06.22-13.41.28:149][380]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/ball61B7752C43D27EE14EE2FB9E33330711.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ball.uasset'
+[2017.06.22-13.41.28:152][380]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ball.uasset
+[2017.06.22-13.42.26:097][  3]LogEditorViewport: Clicking on Actor (LMB): ballActor_C (ballActor)
+[2017.06.22-13.42.36:346][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ball" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ball.uasset" SILENT=true
+[2017.06.22-13.42.36:422][308]LogSavePackage: Save=25.48ms
+[2017.06.22-13.42.36:422][308]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/ballEF03CB8B499731377092689842621405.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ball.uasset'
+[2017.06.22-13.42.36:424][308]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/ball.uasset
+[2017.06.22-13.42.37:829][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatchACoinGamemode" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/CatchACoinGamemode.uasset" SILENT=true
+[2017.06.22-13.42.37:864][473]LogSavePackage: Save=11.94ms
+[2017.06.22-13.42.37:864][473]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/CatchACoinGamemodeCFE9A09C4E96E62AB03D0BBF0B602F5D.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/CatchACoinGamemode.uasset'
+[2017.06.22-13.42.37:866][473]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/CatchACoinGamemode.uasset
+[2017.06.22-13.42.38:587][551]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.06.22-13.43.24:990][616]BlueprintLog: New page: Compile CatchACoinGamemode
+[2017.06.22-13.43.26:028][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatchACoinGamemode" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/CatchACoinGamemode.uasset" SILENT=true
+[2017.06.22-13.43.26:061][724]LogSavePackage: Save=11.83ms
+[2017.06.22-13.43.26:062][724]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/CatchACoinGamemodeADE789BA4DC17DD1DA40DABCB7A5CF1F.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/CatchACoinGamemode.uasset'
+[2017.06.22-13.43.26:064][724]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/CatchACoinGamemode.uasset
+[2017.06.22-13.43.31:988][894]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-13.43.32:024][894]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.43.32:024][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-13.43.32:025][894]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 7:43:32 AM)
+[2017.06.22-13.43.32:025][894]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-13.43.32:042][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016855s)
+[2017.06.22-13.43.32:042][894]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-13.43.32:042][894]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2017.06.22-13.43.32:042][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.017807s)
+[2017.06.22-13.43.32:124][894]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-13.43.32:125][894]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-10.43.32
+[2017.06.22-13.43.32:126][894]LogWorld: Bringing up level for play took: 0.001252
+[2017.06.22-13.43.32:126][894]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.43.32:126][894]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.43.32:126][894]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.43.32:127][894]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.43.32:127][894]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.665
+[2017.06.22-13.43.32:127][894]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.43.36:895][ 26]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.43.37:012][ 26]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.44.01:170][508]LogEditorViewport: Clicking on Actor (LMB): ballActor_C (ballActor)
+[2017.06.22-13.44.06:920][623]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-13.44.06:938][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.44.06:938][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-13.44.06:938][623]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 7:44:06 AM)
+[2017.06.22-13.44.06:938][623]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-13.44.06:953][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014806s)
+[2017.06.22-13.44.06:954][623]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-13.44.06:954][623]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2017.06.22-13.44.06:954][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.016199s)
+[2017.06.22-13.44.07:008][623]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-13.44.07:010][623]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-10.44.07
+[2017.06.22-13.44.07:010][623]LogWorld: Bringing up level for play took: 0.001185
+[2017.06.22-13.44.07:011][623]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.44.07:011][623]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.44.07:011][623]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.44.07:012][623]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.44.07:012][623]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.451
+[2017.06.22-13.44.07:012][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.44.10:325][714]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.44.10:411][714]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.44.11:480][735]LogEditorViewport: Clicking on Actor (LMB): ballActor_C (ballActor)
+[2017.06.22-13.44.14:660][797]LogEditorViewport: Clicking on Actor (LMB): ball_C (ball)
+[2017.06.22-13.44.21:548][933]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-13.44.21:562][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.44.21:562][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-13.44.21:562][933]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 7:44:21 AM)
+[2017.06.22-13.44.21:562][933]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-13.44.21:572][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009416s)
+[2017.06.22-13.44.21:572][933]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-13.44.21:573][933]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2017.06.22-13.44.21:573][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.010266s)
+[2017.06.22-13.44.21:620][933]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-13.44.21:622][933]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-10.44.21
+[2017.06.22-13.44.21:623][933]LogWorld: Bringing up level for play took: 0.001479
+[2017.06.22-13.44.21:623][933]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.44.21:623][933]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.44.21:623][933]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.44.21:624][933]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.44.21:624][933]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.162
+[2017.06.22-13.44.21:624][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.44.25:907][ 50]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.44.25:993][ 50]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.44.27:187][ 74]LogEditorViewport: Clicking on Actor (LMB): ballActor_C (ballActor)
+[2017.06.22-13.44.46:639][452]LogEditorViewport: Clicking on Actor (LMB): ball_C (ball)
+[2017.06.22-13.44.54:419][601]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-13.44.54:433][601]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.44.54:433][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-13.44.54:433][601]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 7:44:54 AM)
+[2017.06.22-13.44.54:433][601]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-13.44.54:443][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009497s)
+[2017.06.22-13.44.54:443][601]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-13.44.54:443][601]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2017.06.22-13.44.54:443][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.010260s)
+[2017.06.22-13.44.54:488][601]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-13.44.54:491][601]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-10.44.54
+[2017.06.22-13.44.54:491][601]LogWorld: Bringing up level for play took: 0.001524
+[2017.06.22-13.44.54:492][601]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.44.54:492][601]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.44.54:492][601]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.44.54:493][601]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.44.54:493][601]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.03
+[2017.06.22-13.44.54:493][601]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.45.01:739][803]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.45.01:833][803]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.45.24:926][264]Cmd: EDIT COPY
+[2017.06.22-13.45.25:108][265]Cmd: EDIT PASTE
+[2017.06.22-13.47.45:636][984]Cmd: TRANSACTION UNDO
+[2017.06.22-13.47.45:636][984]LogEditorTransaction: Undo Set actor location
+[2017.06.22-13.48.02:769][327]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.06.22-13.50.12:965][918]LogSavePackage: Save=180.00ms
+[2017.06.22-13.50.12:965][918]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Minimal_Default0B962FE34BF3BF480BF0839DDCBAF933.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/StarterContent/Maps/Minimal_Default.umap'
+[2017.06.22-13.50.12:967][918]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.06.22-13.50.13:512][931]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-13.50.13:529][931]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.50.13:529][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-13.50.13:529][931]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 7:50:13 AM)
+[2017.06.22-13.50.13:530][931]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-13.50.13:544][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014667s)
+[2017.06.22-13.50.13:545][931]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-13.50.13:545][931]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2017.06.22-13.50.13:545][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.015799s)
+[2017.06.22-13.50.13:642][931]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-13.50.13:644][931]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-10.50.13
+[2017.06.22-13.50.13:644][931]LogWorld: Bringing up level for play took: 0.001181
+[2017.06.22-13.50.13:645][931]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.50.13:645][931]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.50.13:645][931]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.50.13:646][931]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.50.13:646][931]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.193
+[2017.06.22-13.50.13:646][931]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.50.16:847][ 21]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.50.16:937][ 21]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.50.23:313][152]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-13.50.23:331][152]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.50.23:331][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-13.50.23:331][152]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 7:50:23 AM)
+[2017.06.22-13.50.23:331][152]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-13.50.23:346][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014842s)
+[2017.06.22-13.50.23:346][152]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-13.50.23:347][152]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2017.06.22-13.50.23:347][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.015881s)
+[2017.06.22-13.50.23:398][152]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-13.50.23:401][152]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-10.50.23
+[2017.06.22-13.50.23:401][152]LogWorld: Bringing up level for play took: 0.001281
+[2017.06.22-13.50.23:401][152]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.50.23:401][152]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.50.23:401][152]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.50.23:402][152]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.50.23:402][152]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.05
+[2017.06.22-13.50.23:402][152]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.50.30:463][358]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.50.30:552][358]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.50.42:456][600]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-13.50.42:474][600]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.50.42:474][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-13.50.42:474][600]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 7:50:42 AM)
+[2017.06.22-13.50.42:474][600]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-13.50.42:489][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014856s)
+[2017.06.22-13.50.42:490][600]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-13.50.42:490][600]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2017.06.22-13.50.42:490][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.015974s)
+[2017.06.22-13.50.42:584][600]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-13.50.42:586][600]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-10.50.42
+[2017.06.22-13.50.42:586][600]LogWorld: Bringing up level for play took: 0.001322
+[2017.06.22-13.50.42:587][600]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.50.42:587][600]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.50.42:587][600]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.50.42:587][600]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.50.42:588][600]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.863
+[2017.06.22-13.50.42:588][600]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.51.11:257][448]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.51.11:364][448]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.51.54:117][315]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-13.51.54:134][315]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.51.54:135][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-13.51.54:135][315]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 7:51:54 AM)
+[2017.06.22-13.51.54:135][315]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-13.51.54:146][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011620s)
+[2017.06.22-13.51.54:147][315]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-13.51.54:147][315]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2017.06.22-13.51.54:147][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.012665s)
+[2017.06.22-13.51.54:250][315]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-13.51.54:256][315]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-10.51.54
+[2017.06.22-13.51.54:257][315]LogWorld: Bringing up level for play took: 0.003683
+[2017.06.22-13.51.54:259][315]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.51.54:259][315]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.51.54:259][315]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.51.54:262][315]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.51.54:262][315]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.812
+[2017.06.22-13.51.54:263][315]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.52.33:547][449]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.52.33:657][449]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.52.51:023][985]LogMaterial: Missing cached shader map for material RedLight, compiling. 
+[2017.06.22-13.52.51:242][985]LogMaterial: Missing cached shader map for material RedLight, compiling. 
+[2017.06.22-13.52.51:256][985]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.52.51:283][985]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.06.22-13.52.51:287][985]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.06.22-13.52.54:280][101]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 24 instructions
+[2017.06.22-13.52.54:281][101]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.52.54:281][101]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.52.57:836][249]LogMaterial: Missing cached shader map for material RedLight, compiling. 
+[2017.06.22-13.52.57:847][249]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.52.59:872][333]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 24 instructions
+[2017.06.22-13.52.59:872][333]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.52.59:872][333]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.53.08:247][652]LogMaterial: Missing cached shader map for material RedLight, compiling. 
+[2017.06.22-13.53.08:259][652]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.53.09:849][718]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 24 instructions
+[2017.06.22-13.53.09:849][718]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.53.09:849][718]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.53.17:816][914]LogSavePackage: Save=181.32ms
+[2017.06.22-13.53.17:816][914]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Minimal_DefaultE787136741B056C9F0010C999519BB37.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/StarterContent/Maps/Minimal_Default.umap'
+[2017.06.22-13.53.17:818][914]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.06.22-13.53.22:984][959]LogMaterial: Missing cached shader map for material RedLight, compiling. 
+[2017.06.22-13.53.23:002][959]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.53.23:023][959]LogMaterial: Missing cached shader map for material RedLight, compiling. 
+[2017.06.22-13.53.23:045][959]LogMaterial: Missing cached shader map for material RedLight, compiling. 
+[2017.06.22-13.53.23:059][959]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.53.39:880][282]LogMaterial: Missing cached shader map for material RedMetallic, compiling. 
+[2017.06.22-13.53.43:417][304]LogMaterial: Missing cached shader map for material RedMetallic, compiling. 
+[2017.06.22-13.53.43:545][304]LogMaterial: Missing cached shader map for material RedMetallic, compiling. 
+[2017.06.22-13.53.43:556][304]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.53.43:581][304]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.06.22-13.53.45:139][324]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 24 instructions
+[2017.06.22-13.53.45:139][324]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.53.45:139][324]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.53.51:656][560]LogMaterial: Missing cached shader map for material RedMetallic, compiling. 
+[2017.06.22-13.53.51:667][560]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.53.51:696][560]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.06.22-13.53.53:490][631]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 24 instructions
+[2017.06.22-13.53.53:490][631]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.53.53:490][631]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.53.57:096][785]LogMaterial: Missing cached shader map for material RedMetallic, compiling. 
+[2017.06.22-13.53.57:107][785]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.53.57:133][785]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.06.22-13.53.58:949][858]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 24 instructions
+[2017.06.22-13.53.58:949][858]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.53.58:949][858]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.54.13:024][478]LogMaterial: Missing cached shader map for material RedMetallic, compiling. 
+[2017.06.22-13.54.13:033][478]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.54.14:764][549]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 24 instructions
+[2017.06.22-13.54.14:764][549]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.54.14:764][549]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.54.18:020][668]LogMaterialEditor: Saving and Compiling material RedMetallic
+[2017.06.22-13.54.18:491][668]LogMaterial: Missing cached shader map for material RedMetallic, compiling. 
+[2017.06.22-13.54.18:510][668]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.54.18:535][668]LogMaterial: Missing cached shader map for material RedMetallic, compiling. 
+[2017.06.22-13.54.18:556][668]LogMaterial: Missing cached shader map for material RedMetallic, compiling. 
+[2017.06.22-13.54.18:569][668]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.54.20:367][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RedMetallic" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/RedMetallic.uasset" SILENT=true
+[2017.06.22-13.54.20:381][668]LogSavePackage: Save=11.64ms
+[2017.06.22-13.54.20:381][668]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/RedMetallic3974CDF54559460BD727EB8E52E17B3B.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/RedMetallic.uasset'
+[2017.06.22-13.54.20:383][668]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/RedMetallic.uasset
+[2017.06.22-13.54.20:385][668]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 65 instructions
+[2017.06.22-13.54.20:385][668]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.54.20:385][668]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.06.22-13.54.43:283][202]BlueprintLog: New page: Compile SpeedBoost
+[2017.06.22-13.54.44:070][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpeedBoost" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/SpeedBoost.uasset" SILENT=true
+[2017.06.22-13.54.44:131][215]LogSavePackage: Save=17.58ms
+[2017.06.22-13.54.44:131][215]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/SpeedBoost91999DD8413D659324A9928F59A45967.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/SpeedBoost.uasset'
+[2017.06.22-13.54.44:134][215]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/SpeedBoost.uasset
+[2017.06.22-13.54.45:680][248]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-13.54.45:703][248]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.54.45:703][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-13.54.45:703][248]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 7:54:45 AM)
+[2017.06.22-13.54.45:703][248]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-13.54.45:721][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017712s)
+[2017.06.22-13.54.45:721][248]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-13.54.45:721][248]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2017.06.22-13.54.45:721][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.018544s)
+[2017.06.22-13.54.45:816][248]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-13.54.45:818][248]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-10.54.45
+[2017.06.22-13.54.45:818][248]LogWorld: Bringing up level for play took: 0.001446
+[2017.06.22-13.54.45:819][248]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.54.45:819][248]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.54.45:819][248]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.54.45:820][248]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.54.45:820][248]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.371
+[2017.06.22-13.54.45:820][248]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.55.12:752][ 29]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.55.12:841][ 29]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.55.32:798][835]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-13.55.32:817][835]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.55.32:818][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-13.55.32:818][835]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 7:55:32 AM)
+[2017.06.22-13.55.32:818][835]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-13.55.32:831][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013698s)
+[2017.06.22-13.55.32:832][835]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-13.55.32:832][835]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2017.06.22-13.55.32:832][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.014723s)
+[2017.06.22-13.55.32:926][835]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-13.55.32:928][835]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-10.55.32
+[2017.06.22-13.55.32:928][835]LogWorld: Bringing up level for play took: 0.001266
+[2017.06.22-13.55.32:929][835]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.55.32:929][835]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-13.55.32:929][835]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.55.32:930][835]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-13.55.32:930][835]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.518
+[2017.06.22-13.55.32:930][835]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.55.46:465][234]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.55.46:598][234]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-13.57.09:969][846]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.57.10:055][846]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.57.10:064][846]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.57.12:741][866]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-13.57.12:741][866]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.57.12:741][866]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.57.24:763][323]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.57.24:772][323]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.57.24:784][323]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.57.24:794][323]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.57.27:152][418]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-13.57.27:152][418]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.57.27:152][418]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.57.39:174][937]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.57.39:185][937]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.57.39:188][937]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.57.39:197][937]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.57.40:925][  8]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-13.57.40:926][  8]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.57.40:926][  8]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.57.43:933][135]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.57.43:942][135]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.57.45:916][214]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-13.57.45:917][214]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.57.45:917][214]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.57.51:631][458]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.57.51:642][458]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.57.51:644][458]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.06.22-13.57.51:649][458]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.57.51:659][458]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.57.51:690][458]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.06.22-13.57.53:732][540]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-13.57.53:732][540]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.57.53:732][540]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.58.03:162][942]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.58.03:172][942]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.58.03:175][942]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.58.03:185][942]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.58.05:095][ 19]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-13.58.05:095][ 19]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.58.05:095][ 19]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.58.34:068][268]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.58.34:080][268]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.58.34:083][268]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.58.34:092][268]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.58.37:645][414]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-13.58.37:645][414]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.58.37:645][414]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.58.41:699][582]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.58.41:710][582]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.58.43:678][662]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-13.58.43:678][662]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.58.43:678][662]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.58.55:917][185]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.58.55:928][185]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.58.55:968][185]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.58.55:979][185]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.58.58:204][274]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-13.58.58:204][274]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.58.58:204][274]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.58.59:101][311]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.58.59:111][311]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.59.01:039][388]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-13.59.01:039][388]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.59.01:039][388]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.59.03:310][484]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.59.03:321][484]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.59.03:358][484]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.59.03:369][484]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.59.06:224][600]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-13.59.06:224][600]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.59.06:224][600]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.59.10:478][776]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.59.10:489][776]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.59.12:999][875]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-13.59.12:999][875]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.59.12:999][875]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.59.16:240][  9]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.59.16:253][  9]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.59.16:288][  9]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.59.16:298][  9]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.59.18:710][105]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-13.59.18:711][105]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.59.18:711][105]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.59.20:719][188]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.59.20:730][188]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.59.22:753][269]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-13.59.22:753][269]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.59.22:753][269]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.59.28:370][506]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.59.28:382][506]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.59.28:385][506]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.59.28:395][506]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.59.30:202][579]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-13.59.30:202][579]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.59.30:202][579]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.59.39:123][960]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.59.39:132][960]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.59.39:135][960]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.59.39:145][960]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.59.41:002][ 35]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-13.59.41:002][ 35]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.59.41:002][ 35]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-13.59.49:299][389]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-13.59.49:312][389]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-13.59.51:236][468]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-13.59.51:236][468]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-13.59.51:237][468]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.00.12:456][375]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.00.12:467][375]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.00.14:289][451]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.00.14:302][451]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.00.18:112][607]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-14.00.18:113][607]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.00.18:113][607]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.00.24:687][883]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.00.24:698][883]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.00.24:701][883]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.00.24:711][883]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.00.26:625][959]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-14.00.26:625][959]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.00.26:625][959]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.00.48:865][909]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.00.48:876][909]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.00.48:900][909]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.00.48:910][909]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.00.51:233][  3]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.00.51:245][  3]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.00.54:417][131]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-14.00.54:417][131]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.00.54:417][131]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.01.03:527][514]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.01.03:537][514]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.01.03:541][514]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.01.03:550][514]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.01.05:406][589]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-14.01.05:406][589]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.01.05:406][589]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.01.07:354][671]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.01.07:364][671]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.01.09:518][756]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-14.01.09:518][756]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.01.09:518][756]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.01.59:389][896]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.01.59:400][896]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.01.59:403][896]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.01.59:414][896]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.02.03:135][ 49]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-14.02.03:135][ 49]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.02.03:135][ 49]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.02.03:609][ 68]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.02.03:621][ 68]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.02.06:350][180]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-14.02.06:350][180]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.02.06:350][180]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.02.09:050][292]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.02.09:059][292]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.02.11:059][372]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-14.02.11:059][372]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.02.11:059][372]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.02.13:089][457]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.02.13:102][457]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.02.14:942][532]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-14.02.14:942][532]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.02.14:942][532]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.02.30:460][189]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.02.30:472][189]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.02.30:500][189]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.06.22-14.02.32:098][251]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.02.32:113][251]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.02.32:145][251]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.06.22-14.02.34:396][341]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.06.22-14.02.34:397][341]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.02.34:397][341]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.04.00:049][300]LogMaterialEditor: Saving and Compiling material Rat_Guard_Shield
+[2017.06.22-14.04.00:545][300]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.04.00:564][300]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.04.00:587][300]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.04.00:609][300]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.04.00:625][300]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.04.02:997][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rat_Guard_Shield" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/Rat_Guard_Shield.uasset" SILENT=true
+[2017.06.22-14.04.03:011][300]LogSavePackage: Save=12.93ms
+[2017.06.22-14.04.03:011][300]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Rat_Guard_Shield53846AA84FF458A9909351869E959045.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/Rat_Guard_Shield.uasset'
+[2017.06.22-14.04.03:013][300]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/Rat_Guard_Shield.uasset
+[2017.06.22-14.04.03:018][300]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 69 instructions
+[2017.06.22-14.04.03:018][300]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.04.03:018][300]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.06.22-14.04.31:116][ 15]LogEditorTransaction: Undo Modify Component(s)
+[2017.06.22-14.04.31:193][ 15]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.04.31:213][ 15]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.04.33:740][ 79]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.06.22-14.04.33:741][ 79]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.04.33:741][ 79]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.05.45:897][891]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.05.45:907][891]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.05.49:129][ 24]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.05.49:141][ 24]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.05.52:105][147]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.06.22-14.05.52:105][147]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.05.52:105][147]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.06.16:010][548]LogMaterial: Missing cached shader map for material InvisibleMat, compiling. 
+[2017.06.22-14.06.16:068][548]LogMaterial: Missing cached shader map for material InvisibleMat, compiling. 
+[2017.06.22-14.06.16:077][548]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.06.19:482][686]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-14.06.19:482][686]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.06.19:482][686]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.06.25:547][949]LogMaterial: Missing cached shader map for material InvisibleMat, compiling. 
+[2017.06.22-14.06.25:559][949]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.06.27:255][ 19]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-14.06.27:255][ 19]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.06.27:255][ 19]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.06.29:006][ 96]LogMaterial: Missing cached shader map for material InvisibleMat, compiling. 
+[2017.06.22-14.06.29:017][ 96]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.06.30:741][167]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-14.06.30:741][167]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.06.30:741][167]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.06.34:990][356]LogMaterial: Missing cached shader map for material InvisibleMat, compiling. 
+[2017.06.22-14.06.35:000][356]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.06.36:752][428]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-14.06.36:752][428]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.06.36:752][428]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.06.36:889][433]LogMaterial: Missing cached shader map for material InvisibleMat, compiling. 
+[2017.06.22-14.06.36:900][433]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.06.38:635][504]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-14.06.38:635][504]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.06.38:635][504]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.06.38:854][513]LogMaterial: Missing cached shader map for material InvisibleMat, compiling. 
+[2017.06.22-14.06.38:864][513]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.06.40:129][564]LogMaterial: Missing cached shader map for material InvisibleMat, compiling. 
+[2017.06.22-14.06.40:143][564]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.06.41:558][621]LogMaterial: Missing cached shader map for material InvisibleMat, compiling. 
+[2017.06.22-14.06.41:571][621]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.06.42:860][673]LogMaterial: Missing cached shader map for material InvisibleMat, compiling. 
+[2017.06.22-14.06.42:874][673]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.06.44:626][745]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.06.22-14.06.44:626][745]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.06.44:626][745]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.06.47:669][881]LogMaterialEditor: Saving and Compiling material InvisibleMat
+[2017.06.22-14.06.48:141][881]LogMaterial: Missing cached shader map for material InvisibleMat, compiling. 
+[2017.06.22-14.06.48:159][881]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.06.48:175][881]LogMaterial: Missing cached shader map for material InvisibleMat, compiling. 
+[2017.06.22-14.06.48:194][881]LogMaterial: Missing cached shader map for material InvisibleMat, compiling. 
+[2017.06.22-14.06.48:210][881]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.06.50:049][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InvisibleMat" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/InvisibleMat.uasset" SILENT=true
+[2017.06.22-14.06.50:075][881]LogSavePackage: Save=9.18ms
+[2017.06.22-14.06.50:075][881]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/InvisibleMat8B2B01C242C27DAEC3903CA7CD67401D.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/InvisibleMat.uasset'
+[2017.06.22-14.06.50:078][881]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/InvisibleMat.uasset
+[2017.06.22-14.06.50:081][881]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 57 instructions
+[2017.06.22-14.06.50:081][881]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.06.50:081][881]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.06.22-14.07.06:070][201]BlueprintLog: New page: Compile ballActor
+[2017.06.22-14.07.08:196][231]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-14.07.08:216][231]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.07.08:216][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-14.07.08:216][231]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 8:07:08 AM)
+[2017.06.22-14.07.08:216][231]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-14.07.08:233][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016398s)
+[2017.06.22-14.07.08:233][231]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-14.07.08:233][231]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2017.06.22-14.07.08:233][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.017305s)
+[2017.06.22-14.07.08:329][231]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-14.07.08:332][231]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-11.07.08
+[2017.06.22-14.07.08:332][231]LogWorld: Bringing up level for play took: 0.001434
+[2017.06.22-14.07.08:333][231]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-14.07.08:333][231]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-14.07.08:333][231]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-14.07.08:334][231]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-14.07.08:334][231]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.899
+[2017.06.22-14.07.08:334][231]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.07.10:849][300]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.07.10:937][300]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.08.01:708][924]LogSavePackage: Save=184.68ms
+[2017.06.22-14.08.01:708][924]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Minimal_Default_Auto39CFC863645EC5337A3FE158B6ED70FA1.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2017.06.22-14.08.01:710][924]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap
+[2017.06.22-14.08.01:711][924]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.245
+[2017.06.22-14.08.01:711][924]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.245
+[2017.06.22-14.08.01:713][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RedLight] ([1] browsable assets)...
+[2017.06.22-14.08.01:765][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RedLight.RedLight]
+[2017.06.22-14.08.01:765][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/RedLight]
+[2017.06.22-14.08.01:765][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RedLight" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Autosaves/Game/RedLight_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2017.06.22-14.08.01:799][924]LogSavePackage: Save=9.16ms
+[2017.06.22-14.08.01:799][924]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/RedLight_Auto3CB84FE0745F216BA4DF3109ACA59D1F8.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Autosaves/Game/RedLight_Auto3.uasset'
+[2017.06.22-14.08.01:801][924]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Autosaves/Game/RedLight_Auto3.uasset
+[2017.06.22-14.08.01:802][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ballActor] ([1] browsable assets)...
+[2017.06.22-14.08.01:854][924]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ballActor.ballActor]
+[2017.06.22-14.08.01:854][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/ballActor]
+[2017.06.22-14.08.01:854][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ballActor" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Autosaves/Game/ballActor_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2017.06.22-14.08.01:918][924]LogSavePackage: Save=37.74ms
+[2017.06.22-14.08.01:918][924]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/ballActor_Auto3543892424E8A3709A8E15EA97DC56075.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Autosaves/Game/ballActor_Auto3.uasset'
+[2017.06.22-14.08.01:919][924]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Autosaves/Game/ballActor_Auto3.uasset
+[2017.06.22-14.08.01:919][924]LogFileHelpers: Auto-saving content packages took 0.206
+[2017.06.22-14.09.41:422][771]BlueprintLog: New page: Compile ballActor
+[2017.06.22-14.09.42:827][797]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-14.09.42:843][797]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.09.42:843][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-14.09.42:843][797]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 8:09:42 AM)
+[2017.06.22-14.09.42:843][797]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-14.09.42:853][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009799s)
+[2017.06.22-14.09.42:853][797]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-14.09.42:854][797]LogPlayLevel: PIE: World Init took: (0.000535s)
+[2017.06.22-14.09.42:854][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.010601s)
+[2017.06.22-14.09.42:908][797]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-14.09.42:924][797]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-11.09.42
+[2017.06.22-14.09.42:924][797]LogWorld: Bringing up level for play took: 0.015118
+[2017.06.22-14.09.42:924][797]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-14.09.42:924][797]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-14.09.42:924][797]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-14.09.42:925][797]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-14.09.42:925][797]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.507
+[2017.06.22-14.09.42:925][797]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.09.51:979][ 55]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.09.52:108][ 55]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.10.22:595][545]BlueprintLog: New page: Compile ballActor
+[2017.06.22-14.11.18:474][109]BlueprintLog: New page: Compile ballActor
+[2017.06.22-14.11.19:893][168]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-14.11.19:916][168]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.11.19:916][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-14.11.19:916][168]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 8:11:19 AM)
+[2017.06.22-14.11.19:916][168]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-14.11.19:933][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017387s)
+[2017.06.22-14.11.19:934][168]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-14.11.19:934][168]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2017.06.22-14.11.19:934][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.018242s)
+[2017.06.22-14.11.20:022][168]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-14.11.20:024][168]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-11.11.20
+[2017.06.22-14.11.20:024][168]LogWorld: Bringing up level for play took: 0.001475
+[2017.06.22-14.11.20:024][168]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-14.11.20:024][168]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-14.11.20:024][168]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-14.11.20:026][168]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-14.11.20:026][168]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.595
+[2017.06.22-14.11.20:026][168]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.11.55:685][191]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.11.55:791][191]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.12.08:083][598]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.12.08:094][598]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.12.11:106][723]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.06.22-14.12.11:107][723]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.12.11:107][723]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.12.12:851][798]LogMaterialEditor: Saving and Compiling material Rat_Guard_Shield
+[2017.06.22-14.12.13:351][798]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.12.13:370][798]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.12.13:394][798]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.12.13:413][798]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.12.13:427][798]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.12.15:587][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rat_Guard_Shield" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/Rat_Guard_Shield.uasset" SILENT=true
+[2017.06.22-14.12.15:632][798]LogSavePackage: Save=12.18ms
+[2017.06.22-14.12.15:632][798]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Rat_Guard_ShieldFFF9A7C342254412625EEA867548667B.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/Rat_Guard_Shield.uasset'
+[2017.06.22-14.12.15:635][798]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/Rat_Guard_Shield.uasset
+[2017.06.22-14.12.15:639][798]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 69 instructions
+[2017.06.22-14.12.15:639][798]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.12.15:639][798]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.06.22-14.12.17:528][855]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-14.12.17:548][855]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.12.17:548][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-14.12.17:548][855]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 8:12:17 AM)
+[2017.06.22-14.12.17:548][855]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-14.12.17:562][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014221s)
+[2017.06.22-14.12.17:563][855]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-14.12.17:563][855]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2017.06.22-14.12.17:563][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.015235s)
+[2017.06.22-14.12.17:653][855]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-14.12.17:656][855]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-11.12.17
+[2017.06.22-14.12.17:656][855]LogWorld: Bringing up level for play took: 0.001295
+[2017.06.22-14.12.17:656][855]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-14.12.17:656][855]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-14.12.17:657][855]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-14.12.17:657][855]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-14.12.17:657][855]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.227
+[2017.06.22-14.12.17:658][855]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.12.28:438][167]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.12.28:533][167]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.13.08:929][346]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.13.08:941][346]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.13.11:866][469]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.06.22-14.13.11:866][469]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.13.11:866][469]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.13.14:039][562]LogMaterialEditor: Saving and Compiling material Rat_Guard_Shield
+[2017.06.22-14.13.14:532][562]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.13.14:551][562]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.13.14:573][562]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.13.14:592][562]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.13.14:605][562]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.13.16:688][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rat_Guard_Shield" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/Rat_Guard_Shield.uasset" SILENT=true
+[2017.06.22-14.13.16:730][562]LogSavePackage: Save=11.46ms
+[2017.06.22-14.13.16:730][562]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Rat_Guard_Shield1A092A4F446CD13B813C37820352C5F5.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/Rat_Guard_Shield.uasset'
+[2017.06.22-14.13.16:732][562]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/Rat_Guard_Shield.uasset
+[2017.06.22-14.13.16:736][562]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 69 instructions
+[2017.06.22-14.13.16:736][562]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.13.16:736][562]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.06.22-14.13.18:199][595]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-14.13.18:222][595]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.13.18:223][595]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.06.22-14.13.18:223][595]LogPlayLevel: [PlayLevel] Compiling ballActor before play...
+[2017.06.22-14.13.18:393][595]LogPlayLevel: PlayLevel: Blueprint regeneration took 171 ms (1 blueprints)
+[2017.06.22-14.13.18:393][595]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 8:13:18 AM)
+[2017.06.22-14.13.18:393][595]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-14.13.18:402][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008606s)
+[2017.06.22-14.13.18:403][595]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-14.13.18:403][595]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2017.06.22-14.13.18:403][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.009449s)
+[2017.06.22-14.13.18:449][595]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-14.13.18:451][595]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-11.13.18
+[2017.06.22-14.13.18:452][595]LogWorld: Bringing up level for play took: 0.001504
+[2017.06.22-14.13.18:452][595]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-14.13.18:452][595]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-14.13.18:452][595]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-14.13.18:453][595]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-14.13.18:453][595]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.023
+[2017.06.22-14.13.18:453][595]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.13.19:507][618]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.13.19:617][618]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.13.25:587][847]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.13.25:597][847]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.13.27:638][932]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 39 instructions
+[2017.06.22-14.13.27:638][932]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.13.27:638][932]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.13.29:044][998]LogMaterialEditor: Saving and Compiling material Rat_Guard_Shield
+[2017.06.22-14.13.29:510][998]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.13.29:529][998]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.13.29:551][998]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.13.29:572][998]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.13.29:590][998]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.13.31:419][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rat_Guard_Shield" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/Rat_Guard_Shield.uasset" SILENT=true
+[2017.06.22-14.13.31:454][998]LogSavePackage: Save=11.03ms
+[2017.06.22-14.13.31:454][998]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Rat_Guard_ShieldEBA04A494A85D6968B0D348F81EF486F.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/Rat_Guard_Shield.uasset'
+[2017.06.22-14.13.31:456][998]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/Rat_Guard_Shield.uasset
+[2017.06.22-14.13.31:460][998]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 70 instructions
+[2017.06.22-14.13.31:460][998]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.13.31:460][998]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.06.22-14.13.35:012][ 79]BlueprintLog: New page: Compile ballActor
+[2017.06.22-14.13.43:010][432]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.13.43:021][432]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.13.45:123][518]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 39 instructions
+[2017.06.22-14.13.45:123][518]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.13.45:123][518]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.13.46:970][601]LogMaterialEditor: Saving and Compiling material Rat_Guard_Shield
+[2017.06.22-14.13.47:424][601]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.13.47:442][601]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.13.47:463][601]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.13.47:482][601]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.13.47:498][601]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.13.49:342][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rat_Guard_Shield" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/Rat_Guard_Shield.uasset" SILENT=true
+[2017.06.22-14.13.49:379][601]LogSavePackage: Save=10.98ms
+[2017.06.22-14.13.49:379][601]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Rat_Guard_ShieldC81360AB494982BC7E91799C6F3252C5.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/Rat_Guard_Shield.uasset'
+[2017.06.22-14.13.49:382][601]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/Rat_Guard_Shield.uasset
+[2017.06.22-14.13.49:385][601]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 70 instructions
+[2017.06.22-14.13.49:385][601]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.13.49:385][601]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.06.22-14.13.56:165][823]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.13.56:176][823]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.13.57:999][902]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 36 instructions
+[2017.06.22-14.13.57:999][902]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.13.57:999][902]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.13.59:725][981]LogMaterialEditor: Saving and Compiling material Rat_Guard_Shield
+[2017.06.22-14.14.00:188][981]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.14.00:207][981]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.14.00:224][981]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.14.00:242][981]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.14.00:256][981]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.14.02:156][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rat_Guard_Shield" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/Rat_Guard_Shield.uasset" SILENT=true
+[2017.06.22-14.14.02:192][981]LogSavePackage: Save=11.66ms
+[2017.06.22-14.14.02:192][981]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Rat_Guard_Shield73C44BDE46F252004DDAA084F5493AE0.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/Rat_Guard_Shield.uasset'
+[2017.06.22-14.14.02:194][981]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/Rat_Guard_Shield.uasset
+[2017.06.22-14.14.02:197][981]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 67 instructions
+[2017.06.22-14.14.02:197][981]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.14.02:197][981]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.06.22-14.14.06:565][140]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.14.06:575][140]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.14.08:345][219]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.06.22-14.14.08:345][219]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.14.08:345][219]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.14.12:696][421]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.14.12:707][421]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.14.14:368][494]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.06.22-14.14.14:368][494]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.14.14:368][494]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.06.22-14.14.15:955][569]LogMaterialEditor: Saving and Compiling material Rat_Guard_Shield
+[2017.06.22-14.14.16:416][569]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.14.16:435][569]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.14.16:453][569]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.14.16:473][569]LogMaterial: Missing cached shader map for material Rat_Guard_Shield, compiling. 
+[2017.06.22-14.14.16:488][569]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.06.22-14.14.18:239][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rat_Guard_Shield" FILE="../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/Rat_Guard_Shield.uasset" SILENT=true
+[2017.06.22-14.14.18:275][569]LogSavePackage: Save=10.97ms
+[2017.06.22-14.14.18:275][569]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Rat_Guard_ShieldA59086634FAFC88977F03B895A250EF6.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/Rat_Guard_Shield.uasset'
+[2017.06.22-14.14.18:279][569]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/Rat_Guard_Shield.uasset
+[2017.06.22-14.14.18:283][569]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 69 instructions
+[2017.06.22-14.14.18:283][569]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.22-14.14.18:283][569]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.06.22-14.14.40:854][503]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-14.14.40:870][503]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.14.40:870][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-14.14.40:870][503]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 8:14:40 AM)
+[2017.06.22-14.14.40:870][503]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-14.14.40:880][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009352s)
+[2017.06.22-14.14.40:880][503]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-14.14.40:880][503]LogPlayLevel: PIE: World Init took: (0.000534s)
+[2017.06.22-14.14.40:880][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.010115s)
+[2017.06.22-14.14.40:926][503]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-14.14.40:928][503]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-11.14.40
+[2017.06.22-14.14.40:929][503]LogWorld: Bringing up level for play took: 0.001220
+[2017.06.22-14.14.40:929][503]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-14.14.40:929][503]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-14.14.40:929][503]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-14.14.40:930][503]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-14.14.40:930][503]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.499
+[2017.06.22-14.14.40:930][503]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.14.44:505][604]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.14.44:603][604]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.14.51:429][713]BlueprintLog: New page: Compile ballActor
+[2017.06.22-14.14.52:886][741]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-14.14.52:902][741]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.14.52:903][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-14.14.52:903][741]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 8:14:52 AM)
+[2017.06.22-14.14.52:903][741]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-14.14.52:912][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009569s)
+[2017.06.22-14.14.52:913][741]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-14.14.52:913][741]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2017.06.22-14.14.52:913][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.010521s)
+[2017.06.22-14.14.52:967][741]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-14.14.52:969][741]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-11.14.52
+[2017.06.22-14.14.52:969][741]LogWorld: Bringing up level for play took: 0.001326
+[2017.06.22-14.14.52:970][741]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-14.14.52:970][741]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-14.14.52:970][741]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-14.14.52:971][741]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-14.14.52:971][741]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.459
+[2017.06.22-14.14.52:971][741]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.16.27:942][504]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.16.28:052][504]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.16.53:288][901]BlueprintLog: New page: Compile ballActor
+[2017.06.22-14.16.55:041][933]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.22-14.16.55:061][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.16.55:062][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.22-14.16.55:062][933]PIE: New page: PIE session: Minimal_Default (Jun 22, 2017, 8:16:55 AM)
+[2017.06.22-14.16.55:062][933]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.06.22-14.16.55:077][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014758s)
+[2017.06.22-14.16.55:077][933]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.06.22-14.16.55:078][933]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2017.06.22-14.16.55:078][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.015828s)
+[2017.06.22-14.16.55:173][933]LogLoad: Game class is 'CatchACoinGamemode_C'
+[2017.06.22-14.16.55:176][933]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.06.22-11.16.55
+[2017.06.22-14.16.55:176][933]LogWorld: Bringing up level for play took: 0.001303
+[2017.06.22-14.16.55:176][933]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-14.16.55:176][933]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.22-14.16.55:176][933]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-14.16.55:177][933]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.22-14.16.55:177][933]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.251
+[2017.06.22-14.16.55:177][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.17.21:313][706]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.17.21:403][706]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.06.22-14.17.43:622][515]LogSavePackage: Save=174.55ms
+[2017.06.22-14.17.43:622][515]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Saved/Minimal_Default8F2055EB442230D461A33CB1882008E1.tmp' to '../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/StarterContent/Maps/Minimal_Default.umap'
+[2017.06.22-14.17.43:624][515]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/New folder/CatchACoin/Content/StarterContent/Maps/Minimal_Default.umap
