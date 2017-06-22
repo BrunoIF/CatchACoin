@@ -1,8 +1,8 @@
 ------------------
 System Information
 ------------------
-Time of this report: 6/20/2017, 09:28:36
-       Machine name: L1411MICRO22
+Time of this report: 6/22/2017, 08:37:57
+       Machine name: L1411MICRO16
    Operating System: Windows 8.1 Enterprise 64-bit (6.3, Build 9600) (9600.winblue_ltsb.160930-0600)
            Language: Portuguese (Regional Setting: Portuguese)
 System Manufacturer: Dell Inc.
@@ -11,7 +11,7 @@ System Manufacturer: Dell Inc.
           Processor: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz (8 CPUs), ~3.4GHz
              Memory: 16384MB RAM
 Available OS Memory: 16292MB RAM
-          Page File: 4862MB used, 13861MB available
+          Page File: 5109MB used, 13615MB available
         Windows Dir: C:\windows
     DirectX Version: DirectX 11
 DX Setup Parameters: Not found
@@ -182,7 +182,7 @@ USB Devices
 | | 
 | +-+ USB Input Device
 | | | Vendor/Product ID: 0x0461, 0x4E22
-| | | Location: Port_#0005.Hub_#0005
+| | | Location: Port_#0003.Hub_#0005
 | | | Matching Device ID: USB\Class_03&SubClass_01
 | | | Service: HidUsb
 | | | Driver: hidusb.sys, 5/13/2016 20:08:13, 32768 bytes
@@ -224,13 +224,13 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 58.6 GB
+ Free Space: 57.8 GB
 Total Space: 250.0 GB
 File System: NTFS
       Model: ST1000DM003-1CH162
 
       Drive: D:
- Free Space: 569.7 GB
+ Free Space: 584.2 GB
 Total Space: 703.9 GB
 File System: NTFS
       Model: ST1000DM003-1CH162
@@ -973,17 +973,17 @@ Diagnostics
 Windows Error Reporting:
 +++ WER0 +++:
 Fault bucket , type 0
-Event Name: PnPDriverNotFound
+Event Name: PnPRequestAdditionalSoftware
 Response: Not available
 Cab Id: 0
 
 Problem signature:
 P1: x64
-P2: PCI\VEN_8086&DEV_8C22&SUBSYS_05A41028&REV_04
-P3: 
-P4: 
-P5: 
-P6: 
+P2: USB\VID_0461&PID_4E22&REV_0100
+P3: 6.3.0.0
+P4: 0409
+P5: input.inf
+P6: *
 P7: 
 P8: 
 P9: 
@@ -992,17 +992,17 @@ P10:
 
 +++ WER1 +++:
 Fault bucket , type 0
-Event Name: PnPRequestAdditionalSoftware
+Event Name: PnPGenericDriverFound
 Response: Not available
 Cab Id: 0
 
 Problem signature:
 P1: x64
 P2: USB\VID_0461&PID_4E22&REV_0100
-P3: 6.3.0.0
-P4: 0409
-P5: input.inf
-P6: *
+P3: 
+P4: 
+P5: 
+P6: 
 P7: 
 P8: 
 P9: 
@@ -1011,25 +1011,6 @@ P10:
 
 +++ WER2 +++:
 Fault bucket , type 0
-Event Name: PnPRequestAdditionalSoftware
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: x64
-P2: USB\VID_413C&PID_2107&REV_0104
-P3: 6.3.0.0
-P4: 0409
-P5: input.inf
-P6: *
-P7: 
-P8: 
-P9: 
-P10: 
-
-
-+++ WER3 +++:
-Fault bucket , type 0
 Event Name: PnPGenericDriverFound
 Response: Not available
 Cab Id: 0
@@ -1047,7 +1028,64 @@ P9:
 P10: 
 
 
++++ WER3 +++:
+Fault bucket , type 0
+Event Name: PnPRequestAdditionalSoftware
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: x64
+P2: USB\VID_413C&PID_2107&REV_0104
+P3: 6.3.0.0
+P4: 0409
+P5: input.inf
+P6: *
+P7: 
+P8: 
+P9: 
+P10: 
+
+
 +++ WER4 +++:
+Fault bucket , type 0
+Event Name: PnPRequestAdditionalSoftware
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: x64
+P2: USB\VID_413C&PID_2107&REV_0104
+P3: 6.3.0.0
+P4: 0409
+P5: input.inf
+P6: *
+P7: 
+P8: 
+P9: 
+P10: 
+
+
++++ WER5 +++:
+Fault bucket , type 0
+Event Name: PnPRequestAdditionalSoftware
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: x64
+P2: USB\VID_0461&PID_4E22&REV_0100
+P3: 6.3.0.0
+P4: 0409
+P5: input.inf
+P6: *
+P7: 
+P8: 
+P9: 
+P10: 
+
+
++++ WER6 +++:
 Fault bucket , type 0
 Event Name: PnPGenericDriverFound
 Response: Not available
@@ -1066,47 +1104,60 @@ P9:
 P10: 
 
 
-+++ WER5 +++:
-Fault bucket , type 0
-Event Name: APPCRASH
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: Explorer.EXE
-P2: 6.3.9600.18460
-P3: 57c1b8c1
-P4: cfgmgr32.dll
-P5: 6.3.9600.17415
-P6: 545042e5
-P7: c0000005
-P8: 000000000000a96c
-P9: 
-P10: 
-
-
-+++ WER6 +++:
-Fault bucket , type 0
-Event Name: APPCRASH
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: Explorer.EXE
-P2: 6.3.9600.18460
-P3: 57c1b8c1
-P4: cfgmgr32.dll
-P5: 6.3.9600.17415
-P6: 545042e5
-P7: c0000005
-P8: 000000000000a96c
-P9: 
-P10: 
-
-
 +++ WER7 +++:
-No Data
+Fault bucket , type 0
+Event Name: PnPGenericDriverFound
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: x64
+P2: USB\VID_413C&PID_2107&REV_0104
+P3: 
+P4: 
+P5: 
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+
 +++ WER8 +++:
-No Data
+Fault bucket , type 0
+Event Name: PnPRequestAdditionalSoftware
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: x64
+P2: USB\VID_0461&PID_4E22&REV_0100
+P3: 6.3.0.0
+P4: 0409
+P5: input.inf
+P6: *
+P7: 
+P8: 
+P9: 
+P10: 
+
+
 +++ WER9 +++:
-No Data
+Fault bucket , type 0
+Event Name: PnPGenericDriverFound
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: x64
+P2: USB\VID_0461&PID_4E22&REV_0100
+P3: 
+P4: 
+P5: 
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+
