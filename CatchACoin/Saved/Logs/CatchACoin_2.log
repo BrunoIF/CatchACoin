@@ -1710,3 +1710,43 @@ LogInit: Object subsystem initialized
 [2017.06.23-05.11.59:125][597]LogSavePackage: Save=482.25ms
 [2017.06.23-05.11.59:125][597]LogSavePackage: Moving '../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Saved/SpeedBoostCAF0180342A909B8F27C2F833CC2D704.tmp' to '../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/SpeedBoost.uasset'
 [2017.06.23-05.11.59:129][597]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/SpeedBoost.uasset
+[2017.06.23-05.14.18:898][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BrownMetallic" FILE="../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/BrownMetallic.uasset" SILENT=true
+[2017.06.23-05.14.18:902][200]LogSavePackage: Save=1.93ms
+[2017.06.23-05.14.18:902][200]LogSavePackage: Moving '../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Saved/BrownMetallic7E3BBD914409B95CFA649DAA8C980AA2.tmp' to '../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/BrownMetallic.uasset'
+[2017.06.23-05.14.19:027][200]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/BrownMetallic.uasset
+[2017.06.23-05.14.19:115][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Extrude_1Mat" FILE="../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/Extrude_1Mat.uasset" SILENT=true
+[2017.06.23-05.14.19:138][200]LogSavePackage: Save=20.18ms
+[2017.06.23-05.14.19:138][200]LogSavePackage: Moving '../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Saved/Extrude_1MatC3D8F1794CE1594DFFB686AE1A4FEAF5.tmp' to '../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/Extrude_1Mat.uasset'
+[2017.06.23-05.14.19:141][200]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/Extrude_1Mat.uasset
+[2017.06.23-05.14.19:168][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Extrude_Cap_1Mat" FILE="../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/Extrude_Cap_1Mat.uasset" SILENT=true
+[2017.06.23-05.14.19:181][200]LogSavePackage: Save=11.67ms
+[2017.06.23-05.14.19:181][200]LogSavePackage: Moving '../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Saved/Extrude_Cap_1MatACFE96CA49DAA8D98CDBD79357CA03A3.tmp' to '../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/Extrude_Cap_1Mat.uasset'
+[2017.06.23-05.14.19:184][200]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/Extrude_Cap_1Mat.uasset
+[2017.06.23-05.14.19:211][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Extrude_Cap_2Mat" FILE="../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/Extrude_Cap_2Mat.uasset" SILENT=true
+[2017.06.23-05.14.19:238][200]LogSavePackage: Save=11.55ms
+[2017.06.23-05.14.19:238][200]LogSavePackage: Moving '../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Saved/Extrude_Cap_2Mat4E83539248FA3C608C29E895542D0F7E.tmp' to '../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/Extrude_Cap_2Mat.uasset'
+[2017.06.23-05.14.19:241][200]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/Extrude_Cap_2Mat.uasset
+[2017.06.23-05.14.19:289][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExtrudeMat" FILE="../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/ExtrudeMat.uasset" SILENT=true
+[2017.06.23-05.14.19:307][200]LogSavePackage: Save=14.93ms
+[2017.06.23-05.14.19:307][200]LogSavePackage: Moving '../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Saved/ExtrudeMat1E2F094C42C5F9B05BA80DA3D6F80779.tmp' to '../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/ExtrudeMat.uasset'
+[2017.06.23-05.14.19:311][200]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/ExtrudeMat.uasset
+[2017.06.23-05.14.19:852][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/SlownessModel" FILE="../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/Models/SlownessModel.uasset" SILENT=true
+[2017.06.23-05.14.19:914][200]LogSavePackage: Save=36.73ms
+[2017.06.23-05.14.19:914][200]LogSavePackage: Moving '../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Saved/SlownessModelA2D9B1954FCB56577FFCCEBA043C54EC.tmp' to '../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/Models/SlownessModel.uasset'
+[2017.06.23-05.14.19:917][200]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/Models/SlownessModel.uasset
+[2017.06.23-05.14.19:986][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlownessModel2" FILE="../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/SlownessModel2.uasset" SILENT=true
+[2017.06.23-05.14.20:008][200]LogSavePackage: Save=12.18ms
+[2017.06.23-05.14.20:008][200]LogSavePackage: Moving '../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Saved/SlownessModel2D15A2F4E4939DE2CED044DA7B4374D6B.tmp' to '../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/SlownessModel2.uasset'
+[2017.06.23-05.14.20:012][200]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/SlownessModel2.uasset
+[2017.06.23-05.14.30:393][200]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.06.23-05.14.38:296][200]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.06.23-05.14.59:560][201]Cmd: QUIT_EDITOR
+[2017.06.23-05.15.13:808][201]LogExit: Preparing to exit.
+[2017.06.23-05.15.17:480][201]LogDirectoryWatcher: A directory notification for 'C:/Users/Bruno/Desktop/CatchACoin3/CatchACoin/Content/' was aborted.
+[2017.06.23-05.15.19:275][201]LogExit: Editor shut down
+[2017.06.23-05.15.19:276][201]LogExit: Transaction tracking system shut down
+[2017.06.23-05.15.37:480][201]LogObj: Freed 0b from 0 cluster array pools.
+[2017.06.23-05.15.37:540][201]LogExit: Object subsystem successfully closed.
+[2017.06.23-05.15.41:560][201]LogD3D11RHI: Shutdown
+[2017.06.23-05.15.41:589][201]LogD3D11RHI: CleanupD3DDevice
+[2017.06.23-05.15.53:773][201]LogD3D11RHI: ~FD3D11DynamicRHI
